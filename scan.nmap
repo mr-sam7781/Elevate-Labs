@@ -1,0 +1,13 @@
+
+
+
+Nmap scan report for 192.168.56.10
+Host is up (0.0031s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 7.9p1
+80/tcp  open  http    Apache httpd 2.4.41
+139/tcp closed netbios-ssn
+445/tcp filtered microsoft-ds
+
+Nmap done: 1 IP address (1 host up) scanned in 6.42 seconds
